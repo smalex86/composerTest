@@ -1,4 +1,13 @@
 {
   "name": "smalex86/composerTest",
-  "version": "v1.3"
+  "description": "repo for testing composer",
+  "homepage": "https://github.com/smalex86/composerTest",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Jordi Boggiano",
+      "email": "j.boggiano@seld.be",
+      "homepage": "http://seld.be"
+    }
+  ]
 }
